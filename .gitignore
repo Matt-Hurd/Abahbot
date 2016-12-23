@@ -1,0 +1,5 @@
+*.pyc
+logs/
+secrets.py
+lines.json
+
